@@ -1,50 +1,7 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Trần Tiến Khải-23810310384
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/0735632f-9ebf-40d5-a03b-6aee023f6caf" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/6878da38-7e76-43cd-8d8c-8131d2162353" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/76520bd5-7b1b-4cfe-a0cd-955ee39839f9" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/a6b8d2aa-910f-4b54-b297-78c0ac4ca0e6" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/84443603-10c0-40c7-91c5-ed6a8ee679ef" />
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/276b4e03-12c2-46b9-9bb7-793ce62e5122" />
